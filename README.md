@@ -15,4 +15,4 @@ Week 1
 
 Quiz - How the web works
 Quiz - Examine the page
-Module Quiz: Get started with Web Development
+Module Quiz: Get started with Web Development-https://www.coursera.org/learn/introduction-to-front-end-development/quiz/sOSKG/knowledge-check-how-the-web-works/view-attempt
